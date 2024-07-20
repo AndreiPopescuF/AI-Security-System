@@ -5,9 +5,13 @@
 The following project consists of developing a security system with AI recognition that aims at detecting the presence of a person within a specified range and activating the alarm system, which is made up of the following steps:
 
 •	Turning on the camera
+
 •	Ringing the alarm
+
 •	Showing a message for the intruder
+
 •	Interpreting the images displayed by the camera
+
 •	Accesible live images on the phone with the application Telegram
 
 ## Tehnical support
